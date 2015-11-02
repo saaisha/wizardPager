@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/saaishasingh/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.9/872ec63b41181e29ad5a3723f1417356e2d2c0f2/slf4j-api-1.7.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="872ec63b41181e29ad5a3723f1417356e2d2c0f2">
+        <dex dex="/Users/saaishasingh/AndroidStudioProjects/WizardPager/sample/build/intermediates/pre-dexed/debug/slf4j-api-1.7.9-748aafd4e751a560e6217234964e8ad0de5d03fe.jar" />
+    </item>
+    <item
+        jar="/Users/saaishasingh/android-sdks/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/saaishasingh/AndroidStudioProjects/WizardPager/sample/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-fed6291eb37738425363a291c58db69499920e80.jar" />
+    </item>
+    <item
+        jar="/Users/saaishasingh/AndroidStudioProjects/WizardPager/sample/build/intermediates/exploded-aar/com.github.shell-software/viewmover/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3d6dc28c575755c91be7f6a69803e4ebe98c7c7d">
+        <dex dex="/Users/saaishasingh/AndroidStudioProjects/WizardPager/sample/build/intermediates/pre-dexed/debug/classes-77b68fac9251f54acb851729583c418285d05306.jar" />
+    </item>
+    <item
+        jar="/Users/saaishasingh/AndroidStudioProjects/WizardPager/sample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/saaishasingh/AndroidStudioProjects/WizardPager/sample/build/intermediates/pre-dexed/debug/classes-4e414565649a00dc2393b1a45c7befd2cb2e9f0e.jar" />
+    </item>
+    <item
+        jar="/Users/saaishasingh/AndroidStudioProjects/WizardPager/sample/build/intermediates/exploded-aar/com.github.shell-software/uitools/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="418307d960be5f7c5fe13794b7283f5fd09d0c17">
+        <dex dex="/Users/saaishasingh/AndroidStudioProjects/WizardPager/sample/build/intermediates/pre-dexed/debug/classes-6080d83a51e52a48302d3558fbb5c0de646a9b6b.jar" />
+    </item>
+    <item
+        jar="/Users/saaishasingh/AndroidStudioProjects/WizardPager/sample/build/intermediates/exploded-aar/com.github.shell-software/fab/1.1.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="48bbecbdd3ed42e9df1b94a945480838e3bb208b">
+        <dex dex="/Users/saaishasingh/AndroidStudioProjects/WizardPager/sample/build/intermediates/pre-dexed/debug/classes-b824d9a8fac7ead67154f0f54590c5740bf125c0.jar" />
+    </item>
+    <item
+        jar="/Users/saaishasingh/AndroidStudioProjects/WizardPager/sample/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/saaishasingh/AndroidStudioProjects/WizardPager/sample/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-d2440873d261cf719ad4bcb74debcb1b036dd4bc.jar" />
+    </item>
+    <item
+        jar="/Users/saaishasingh/AndroidStudioProjects/WizardPager/sample/build/intermediates/exploded-aar/com.github.amlcurran.showcaseview/library/5.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8b3d9a7b348d8bcfb4d740dfaf70bc374cdae9d6">
+        <dex dex="/Users/saaishasingh/AndroidStudioProjects/WizardPager/sample/build/intermediates/pre-dexed/debug/classes-ff64186ff5ac71614b55ba273a9b273b9e691bf9.jar" />
+    </item>
+    <item
+        jar="/Users/saaishasingh/AndroidStudioProjects/WizardPager/sample/build/intermediates/exploded-aar/com.github.techfreak/library/1.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e80b452af92ea24f367a5714806a8c177bc89a40">
+        <dex dex="/Users/saaishasingh/AndroidStudioProjects/WizardPager/sample/build/intermediates/pre-dexed/debug/classes-ff405d23c46ef994ff5d55ff8dd950dcaca67a4e.jar" />
+    </item>
+    <item
+        jar="/Users/saaishasingh/AndroidStudioProjects/WizardPager/sample/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/saaishasingh/AndroidStudioProjects/WizardPager/sample/build/intermediates/pre-dexed/debug/classes-631abc4f226a21a54f2be3e70e1cf244ab6ba8c6.jar" />
+    </item>
+
+</items>
